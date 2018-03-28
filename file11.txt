@@ -14,3 +14,4 @@ drwxr-xr-x  13 1038099180  365896978  416 Mar 28 04:53 .git
 -rw-r--r--   1 1038099180  365896978    0 Mar 28 04:46 file2.txt
 -rw-r--r--   1 1038099180  365896978    0 Mar 28 04:46 file1.txt
 drwxr-xr-x   3 1038099180  365896978   96 Mar 28 04:45 ..
+//this is the added line for checking about merge. 
